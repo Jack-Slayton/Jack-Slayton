@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jack-Slayton
+- 🐍 Currently Learning Python
 
 
 <!---
