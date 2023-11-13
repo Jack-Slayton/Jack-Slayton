@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jack-Slayton
 - 🐍 Currently Learning Python
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Dracula)
 [![Jack-Slayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Slayton)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
