@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Jack-Slayton
 - 🐍 Currently Learning Python
+- ☕ Also Learning Java
+- 💻 CS 1 student
 
 ![Jack-Slayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Slayton&show_icons=true&theme=dracula)
 
